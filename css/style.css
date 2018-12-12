@@ -432,7 +432,11 @@ a.icon {
   padding-top: 150px !important;
 }
 .header-two {
-  background: url('../images/header-bg.jpg') no-repeat;
+  background: url('../images/PistachioosePannaottaTartfb.jpg') no-repeat 1000 1000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-size: contain;
 }
 .header-three {
   background: url('../images/header-three-bg.jpg') no-repeat;
